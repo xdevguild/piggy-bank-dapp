@@ -68,7 +68,7 @@ export const DeployOperation = () => {
         </div>
       )}
       {scAddress && txResult?.hash && !scErrorMessage && !error && (
-        <SmartContractAddress />
+        <SmartContractAddress address={scAddress} />
       )}
     </div>
   );
