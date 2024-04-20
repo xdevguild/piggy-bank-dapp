@@ -1,3 +1,6 @@
+### [1.1.0](https://github.com/xdevguild/piggy-bank-dapp/releases/tag/v1.1.0) (2024-04-20)
+- update useElven and dependencies
+
 ### [1.0.2](https://github.com/xdevguild/piggy-bank-dapp/releases/tag/v1.0.2) (2024-02-28)
 - update dependencies
 - ui improvements
